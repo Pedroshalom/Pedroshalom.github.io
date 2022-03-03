@@ -5,10 +5,11 @@ p {
 
   h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
   }
 
   body {
-    background-color: brown;
+    background-color:blue
   }
 
   li {
@@ -25,4 +26,16 @@ p {
 
   .fonte-big {
     font-size: 25px;
+  }
+
+  .picture{
+    border-radius: 100%;
+  }
+
+  .button{
+    background-color:green;
+    color: white;
+    text-decoration: none;
+    padding: 3px;
+   
   }
