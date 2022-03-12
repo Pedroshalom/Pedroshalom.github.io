@@ -24,9 +24,10 @@ p {
     font-size: 20px;
   }
 
-  .fonte-big {
-    font-size: 25px;
+  h2{
+    font-size: 30px;
   }
+
 
   .picture{
     border-radius: 100%;
@@ -39,3 +40,31 @@ p {
     padding: 3px;
    border-radius: 30px;
   }
+
+  .rodapé-prin{
+    clear: both;
+    padding: 5px;
+    color: rgb(250, 255, 250);
+    font-size: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+  .icones-sociais{
+    display: inline-block;
+    float: right;
+    width: 15px;
+    height: 15px;
+   
+  }
+
+  footer{
+    display: inline-block;
+  
+  }
+
+  img{
+    border-radius: 50%;
+  }
+
+  
